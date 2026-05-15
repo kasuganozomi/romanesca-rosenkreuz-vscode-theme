@@ -1,5 +1,7 @@
 # Romanesca Rosenkreuz for Visual Studio Code
 
+![Romanesca Rosenkreuz Overview](https://raw.githubusercontent.com/kasuganozomi/romanesca-rosenkreuz-vscode-theme/main/adi_sunetra_theme_overview_final.png)
+
 > Where logic meets alchemy. Engineered for semantic depth and visual structural awareness.
 
 Romanesca Rosenkreuz is born from the melancholy of the modern architect. A realization that in the infinite void of code, clarity is our only sanctuary. This is not a mere cosmetic skin; it is a meticulous reconstruction of the developer's workspace. It honors the esoteric roots of its name while delivering the cold, surgical precision required for high-level engineering. Every hue is a conscious decision, every contrast a deliberate checkpoint in the pursuit of the absolute.
