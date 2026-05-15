@@ -1,0 +1,53 @@
+{
+  "name": "romanesca-rosenkreuz-vscode-theme",
+  "displayName": "Romanesca Rosenkreuz Theme",
+  "description": "Romanesca Rosenkreuz for VS Code",
+  "version": "0.0.1",
+  "publisher": "IKadzura",
+  "author": {
+    "name": "Adi Sunetra",
+    "email": "kadzura@dev.id"
+  },
+  "license": "CC-BY-NC-ND-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kasuganozomi/romanesca-rosenkreuz-vscode-theme"
+  },
+  "icon": "adi_sunetra_logo_final.png",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "cyberpunk",
+    "neon",
+    "kiro",
+    "industrial",
+    "typescript",
+    "python",
+    "cpp",
+    "html",
+    "sql",
+    "romanesca",
+    "rosenkreuz",
+    "semantic",
+    "kadzura"
+  ],
+  "galleryBanner": {
+    "color": "#19161d",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Romanesca Rosenkreuz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/romanesca-rosenkreuz.json"
+      }
+    ]
+  }
+}
